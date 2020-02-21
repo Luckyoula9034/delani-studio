@@ -21,4 +21,17 @@ header{
 #about{
     text-align: center;
 }
+#mouse{
+    padding: 80px;
+}
+#services{
+    background-image: url("https://bit.ly/32f1ZGl");
+    background-position: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+    
+    text-align: center;
+    color: white;
+    padding:80px;
+}
 
