@@ -2,6 +2,7 @@
     padding: 0px;
     margin: 0px;
 }
+
 header{
     background-image: url("https://bit.ly/2V9fplO");
     height: 100vh;
@@ -9,3 +10,15 @@ header{
     background-position: center;
 
 }
+
+#main{
+    text-align: center;
+    position: relative;
+    padding-top: 20%;
+    
+    
+}
+#about{
+    text-align: center;
+}
+
