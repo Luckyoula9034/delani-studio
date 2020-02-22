@@ -25,7 +25,7 @@ header{
     padding: 80px;
 }
 #services{
-    background-image: url("https://bit.ly/32f1ZGl");
+    background-image: url("/asset/images/backgrounds/s_image.jpg");
     background-position: cover;
     background-repeat: no-repeat;
     height: 80vh;
@@ -40,4 +40,46 @@ header{
 .port{
     padding-bottom: 17px;
 }
+.form{
+    background-image: url("https://bit.ly/38Sw5Ci");
+    background-position: center;
+    height: 60vh;
+    text-align: center;
+    
+}
+#inp1{
+    background: none;
+    width: 24%;
+    border: 1px solid white;
+}
+#inp2{
+    background: none;
+    width:39%;
+    border:1px solid white;
+    
+}
+#msg{
+    background:none ;
+    border:1px solid white;
+    width: 600px;
+    height:160px;
+    
+    
+}
+#btn{
+    
+        width: 250px;
+        background: skyblue;
+        height: 50px;
+        line-height: 50px;
+        text-align: center;
+        border-radius: 5px;
+        margin: 0 auto;
+        color: #fff;
+        text-transform: uppercase;
+        cursor: pointer;
+    
+}
+
+  
 
