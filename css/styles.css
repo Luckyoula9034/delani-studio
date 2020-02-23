@@ -39,6 +39,7 @@ header{
 }
 .port{
     padding-bottom: 17px;
+    text-align: center;
 }
 .form{
     background-image: url("https://bit.ly/38Sw5Ci");
@@ -80,6 +81,9 @@ header{
         cursor: pointer;
     
 }
+/* #dev{
+    display:none;
+} */
 
   
 
