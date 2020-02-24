@@ -1,6 +1,8 @@
 $(document).ready(function() {
   $("#development-image").click(function() {
-    $("#development-image").hide('1500').hide('1000');
+    $("#development-image")
+      .hide("1500")
+      .hide("1000");
     $("#development").show("1500");
   });
   $("#development").click(function() {
@@ -11,7 +13,9 @@ $(document).ready(function() {
 
 $(document).ready(function() {
   $("#design-image").click(function() {
-    $("#design-image").hide('1500').hide('1000');
+    $("#design-image")
+      .hide("1500")
+      .hide("1000");
     $("#design").show("1500");
   });
   $("#design").click(function() {
@@ -22,7 +26,9 @@ $(document).ready(function() {
 
 $(document).ready(function() {
   $("#product-image").click(function() {
-    $("#product-image").hide('1500').hide('1000');
+    $("#product-image")
+      .hide("1500")
+      .hide("1000");
     $("#product").show("1500");
   });
   $("#product").click(function() {
@@ -75,7 +81,7 @@ $(document).ready(function() {
     .mouseout(function() {
       $("#overlay5").hide();
     });
-    
+
   $("#six")
     .mouseover(function() {
       $("#overlay6").show();
@@ -98,8 +104,8 @@ $(document).ready(function() {
       $("#overlay8").hide();
     });
 });
-$(document).ready(function(){
-  $("form").submit(function(){
+$(document).ready(function() {
+  $("form").submit(function() {
     alert("Thank you for submitting reach us on gmail");
   });
 });
