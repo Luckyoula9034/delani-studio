@@ -98,3 +98,8 @@ $(document).ready(function() {
       $("#overlay8").hide();
     });
 });
+$(document).ready(function(){
+  $("form").submit(function(){
+    alert("Thank you for submitting reach us on gmail");
+  });
+});
