@@ -50,12 +50,12 @@ header{
 }
 #inp1{
     background: none;
-    width: 24%;
+    width: 29%;
     border: 1px solid white;
 }
 #inp2{
     background: none;
-    width:39%;
+    width:29%;
     border:1px solid white;
     
 }
@@ -81,9 +81,19 @@ header{
         cursor: pointer;
     
 }
-/* #dev{
-    display:none;
-} */
+#footer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding:20px;
+    
+    
+}
+#del{
+     text-align: center;
+     padding: 20px;
+}
+
 
   
 
