@@ -5,11 +5,11 @@
 ## DESCRIPTION
 - This Delani-studio project that shows services it offers and more infomation about Delani-studio,it has a portfolio section and a form that allows end users to send massages to the studio.
 ## TECHNOLIGIES USED
-.HTML5
-.CSS
-.Bootstap
-.JQuery
-.Markdown language
+- HTML5
+- CSS
+- Bootstap
+- JQuery
+- Markdown language
 ## link
 -
 ## BDD
