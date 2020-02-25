@@ -11,7 +11,9 @@
 .JQuery
 .Markdown language
 ## link
--
+-https://luckyoula9034.github.io/delani-studio/
+## KNOWN BUG
+- some images are not displaying due to internet.
 ## BDD
 - In the form the users are requiered to enter there name and there email,after that the user has to enter acomment and then press the submit button and the pop up will appear at the top of the screen.
 ## CONTACT
